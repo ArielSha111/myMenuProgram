@@ -1,0 +1,262 @@
+Bread
+appetizer
+25
+
+Green soup
+appetizer
+35
+
+Orange soup
+appetizer
+35
+
+Red soup
+appetizer
+35
+
+Chips
+appetizer
+40
+
+Eggplanet
+appetizer
+29
+
+Sald
+appetizer
+38
+
+Tomato salad
+appetizer
+39
+
+Stake(0.5k)
+main
+275
+
+Stake filet(0.5k)
+main
+300
+
+Whole fish
+main
+125
+
+Fish filet
+main
+120
+
+Pasta pene
+main
+85
+
+Pasta linguine
+main
+75
+
+pasta bolognese
+main
+90
+
+Ravioli cheese 
+main
+95
+
+Cheese cake
+desert
+48
+
+Chocolate cake 
+desert
+50
+
+Souffle
+desert
+52
+
+Vanila IceCreame
+desert
+22
+
+Chocolate  IceCreame
+desert
+22
+
+surbe
+desert
+18.5
+
+PanCake
+desert
+38
+
+Coca Cola
+drink
+12
+
+Sprite
+drink
+12
+
+Fanta
+drink
+12.5
+
+grape juice
+drink
+11
+
+orange juice
+drink
+16
+
+Cold coffee
+drink
+18
+
+Hot coffee
+drink
+15.5
+
+Brad
+appetizer
+25
+
+Green soup
+appetizer
+35
+
+Orange soup
+appetizer
+35
+
+Red soup
+appetizer
+35
+
+Chips
+appetizer
+40
+
+Eggplanet
+appetizer
+29
+
+Sald
+appetizer
+38
+
+Tomato salad
+appetizer
+39
+
+Stake(0.5k)
+main
+275
+
+Stake filet(0.5k)
+main
+300
+
+Whole fish
+main
+125
+
+Fish filet
+main
+120
+
+Pasta pene
+main
+85
+
+Pasta linguine
+main
+75
+
+pasta bolognese
+main
+90
+
+Ravioli cheese 
+main
+95
+
+Cheese cake
+desert
+48
+
+Chocolate cake 
+desert
+50
+
+Souffle
+desert
+52
+
+Vanila IceCreame
+desert
+22
+
+Chocolate  IceCreame
+desert
+22
+
+surbe
+desert
+18.5
+
+PanCake
+desert
+38
+
+Coca Cola
+drink
+12
+
+Sprite
+drink
+12
+
+Fanta
+drink
+12.5
+
+grape juice
+drink
+11
+
+orange juice
+drink
+16
+
+Cold coffee
+drink
+18
+
+Hot coffee
+drink
+15.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
